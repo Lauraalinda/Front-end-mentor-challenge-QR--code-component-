@@ -18,8 +18,8 @@ To build out this QR code component and get it looking as close to the design as
 
 ### Screenshot
 
-![DesktopView Screenshot](./web.png)
-![MobileView Screenshot](./mobile.png)
+![DesktopView Screenshot](../web.png)
+![MobileView Screenshot](.../mobile.png)
 
 ### Links
 
